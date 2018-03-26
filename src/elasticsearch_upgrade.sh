@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#tested on master,monitor
-
 ######### script global params need to review before running
 version=5.6.8
 #########
